@@ -7,11 +7,11 @@ Inspired & derived from the micro:bit v1, this NRF51822 board is built with lowe
 ## Board Features
 **Top**
 
-   <img src="https://github.com/TomatoCube18/NRF51_DevelopmentBoard/blob/main/images/Board_TopView.png"  width="500" height="auto" />
+   <img src="https://github.com/TomatoCube18/NRF51_DevelopmentBoard/blob/main/images/Board_TopView.png"  width="600" height="auto" />
    
 **Bottom**
 
-   <img src="https://github.com/TomatoCube18/NRF51_DevelopmentBoard/blob/main/images/Board_BottomView.png"  width="500" height="auto" />
+   <img src="https://github.com/TomatoCube18/NRF51_DevelopmentBoard/blob/main/images/Board_BottomView.png"  width="600" height="auto" />
 
 <br>
 
@@ -19,3 +19,4 @@ Inspired & derived from the micro:bit v1, this NRF51822 board is built with lowe
 Click here for the [Getting-Started Guide](https://github.com/TomatoCube18/NRF51_DevelopmentBoard/blob/main/Getting-Started-with-the-NRF51-Dev-Board.md) 🎓👩🏻‍🏫
 
 
+<br>
