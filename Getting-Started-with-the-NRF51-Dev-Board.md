@@ -52,7 +52,7 @@ The onboard **CH32V203 MCU** can be programmed directly via USB using **WCHISPTo
 
 ### 🔍 Step 3: Verify with pyOCD
 
-After flashing, the board should enumerate as a **DAPLink USB device**. To confirm it works, you can use [pyOCD](https://github.com/pyocd/pyOCD?utm_source=chatgpt.com).
+After flashing, the board should enumerate as a **DAPLink USB device**. To confirm it works, you can use [pyOCD](https://github.com/pyocd/pyOCD).
 
 1. Install pyOCD (requires Python 3.7+):
 
@@ -84,7 +84,7 @@ After flashing, the board should enumerate as a **DAPLink USB device**. To confi
 
 ## 🛠️ (A) Arduino Guide
 
-This guide shows how to set up the **Arduino IDE** for the NRF51822 MCU, using the [`arduino-nRF5`](https://github.com/sandeepmistry/arduino-nRF5?utm_source=chatgpt.com) core, and upload your first sketch to blink the onboard LED (P0.20).
+This guide shows how to set up the **Arduino IDE** for the NRF51822 MCU, using the [`arduino-nRF5`](https://github.com/sandeepmistry/arduino-nRF5) core, and upload your first sketch to blink the onboard LED (P0.20).
 
 
 
